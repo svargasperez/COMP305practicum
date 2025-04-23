@@ -2,4 +2,4 @@
 *Line edited by Dr. Vargas-Pérez, Raja, and Sasha.*
 
 
-- Line edited by Dr. Vargas-Pérez and Benjamin and Zachary, and Charlie, and Helen
+- Line edited by Dr. Vargas-Pérez and Benjamin and Zachary, and Charlie, and Helen. 
