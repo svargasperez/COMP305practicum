@@ -2,5 +2,7 @@
 *Line edited by Dr. Vargas-Pérez, Raja, and Sasha.*
 
 
-- Line edited by Dr. Vargas-Pérez and Benjamin and Zachary, and Charlie
+
+- Line edited by Dr. Vargas-Pérez and Benjamin and Zachary, and Charlie, and Kevin
+
 
