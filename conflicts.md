@@ -2,4 +2,9 @@
 *Line edited by Dr. Vargas-Pérez, Raja, and Sasha.*
 
 
+<<<<<<< HEAD
 - Line edited by Dr. Vargas-Pérez, Benjamin, Zachary, Kevin, Charlie, Maddie, Mahmoud, Joe, Erendira, Helen, and Phoebe.
+=======
+- Line edited by Dr. Vargas-Pérez and Benjamin and Zachary, and Charlie, and Collin
+
+>>>>>>> feature-CollinRussell
