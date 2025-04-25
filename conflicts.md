@@ -3,5 +3,5 @@
 
 
 
-- Line edited by Dr. Vargas-Pérez, Benjamin, Zachary, Kevin, Charlie, Maddie, Mahmoud, Joe, Erendira, Helen, Phoebe, and Collin.
+- Line edited by Dr. Vargas-Pérez, Benjamin, Zachary, Kevin, Charlie, Maddie, Mahmoud, Joe, Erendira, Helen, Phoebe, Dillon, and Collin.
 
