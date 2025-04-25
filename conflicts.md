@@ -2,4 +2,4 @@
 *Line edited by Dr. Vargas-Pérez, Raja, and Sasha.*
 
 
-- Line edited by Dr. Vargas-Pérez, Benjamin, Zachary, Kevin, Charlie, Maddie, Mahmoud, Joe, Erendira, Helen, and Phoebe.
+- Line edited by Dr. Vargas-Pérez, Benjamin, Zachary, Kevin, Charlie, Maddie, Mahmoud, Joe, Erendira, Helen, Phoebe, and Schareene. 
