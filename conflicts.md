@@ -2,6 +2,6 @@
 *Line edited by Dr. Vargas-Pérez, Raja, and Sasha.*
 
 
-- Line edited by Dr. Vargas-Pérez, Benjamin, Zachary, Kevin, Charlie, Maddie, Mahmoud, Joe, Erendira, Helen, Junior, Dillon, Sarah, Schareene,Maggie, Phoebe  Nailia, Jair, Matthew, and Collin.
+- Line edited by Dr. Vargas-Pérez, Benjamin, Zachary, Kevin, Charlie, Maddie, Mahmoud, Joe, Erendira, Helen, Junior, Dillon, Sarah, Schareene,Maggie, Phoebe  Nailia, Jair, Matthew, Jason, and Collin.
 
 
